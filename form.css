@@ -6,7 +6,7 @@ body {
 }
 .container {
     margin: auto;
-    max-width: 600px;
+    max-width: 500px;
     background-color: #fff;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -15,10 +15,10 @@ body {
 .header {
     font-size: 24px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 5px;
     border-radius: 5px;
-    width: 98.5%;
+    width: 98%;
     background-color: #f0f0f0;
 }
 
@@ -47,7 +47,7 @@ body {
     border-radius: 4px;
     display: block;
     font-family: inherit;
-    font-size: 14px;
+    font-size: 16px;
     padding: 10px;
     width: 100%;
 }
@@ -92,5 +92,6 @@ i.fa-exclamation-circle {
     padding: 10px;
     margin-top: 20px;
     cursor: pointer;
-    width: 100%;
+    width: 70%;
+    margin: auto;
 }
